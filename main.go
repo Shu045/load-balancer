@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main(){
-  fmt.Println("Load balancer started")
+  fmt.Println("Load balancer started successfully")
 }
